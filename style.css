@@ -773,7 +773,9 @@ h4 {
   margin-right: 18%;
   padding-bottom: 3%;
 }
-
+.bg-presentation{
+  background-image: url("img/image-de-presentation.jpg");
+}
 .navbar2 li a {
   background-color: unset;
   text-decoration: none;
